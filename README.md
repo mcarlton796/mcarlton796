@@ -23,6 +23,12 @@ I’m a full-stack web developer with experience in Python, HTML/CSS, JS, Java, 
   <a href="https://flask.palletsprojects.com/en/stable/">
     <img loading="lazy" src="https://skillicons.dev/icons?i=flask" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img loading="lazy" src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img loading="lazy" src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com">
     <img loading="lazy" src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
   </a>
@@ -38,7 +44,13 @@ I’m a full-stack web developer with experience in Python, HTML/CSS, JS, Java, 
   <a href="https://www.adobe.com/products/aftereffects.html">
     <img loading="lazy" src="https://skillicons.dev/icons?i=ae" width="40" height="40"/>
   </a>
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img loading="lazy" src="https://skillicons.dev/icons?i=ps" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img loading="lazy" src="https://skillicons.dev/icons?i=ai" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com">
     <img loading="lazy" src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
-  </a>
+  </a>  
 </div>
