@@ -6,7 +6,7 @@
 
 I’m a full-stack web developer with experience in Python, HTML/CSS, JS, Java, C/C++, and etc. I studied Graphic Information technology at Arizona State University, where I received my Bachelor of Science with a focus in Full-Stack Web Development. While I may have completed my college career, my education is still not finished. I hope to expand my skillset continuously and earn new certifications on the way.
 
-# Skills 🎯
+<h3>Skills 🎯</h3>
 <div>
   <a href="https://www.python.org/">
      <img loading="lazy" src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
@@ -55,7 +55,7 @@ I’m a full-stack web developer with experience in Python, HTML/CSS, JS, Java, 
   </a>  
 </div>
 
-# Contact Me 📩
+<h3>Contact Me 📩</h3>
 <div>
   <a href = "mailto:mcarlton796@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mark-carlton-a550ab239/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
